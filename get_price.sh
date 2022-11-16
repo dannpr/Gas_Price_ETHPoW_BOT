@@ -9,7 +9,7 @@ echo " " >> minprice.txt
 token_name=$(cat minpage.txt | grep -Poz '(?<=class="jet-listing-dynamic-field__content">).*(?<=MIN)' | head -1)
 echo "Name: $token_name">>minprice.txt
 
-token_price=$(cat minpage.txt | grep -Poz '(?<=class="jet-listing-dynamic-field__content">).*(?<=�₳)')
+token_price=$(cat minpage.txt | grep -Poz '(?<=class="jet-listing-dynamic-field__content">).*(?<=₳)')
 echo "Price: $token_price">>minprice.txt
 
 
