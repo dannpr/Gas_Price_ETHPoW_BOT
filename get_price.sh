@@ -19,8 +19,8 @@ cat minprice.txt
 MESSAGE=$(cat minprice.txt)
 echo "Sending the price to your telegram chat"
 
-TOKEN='5681540714:AAEXiIvabIGfHoGS4yxIRHJjH7NGWyJkJfc'
-CHAT_ID='1506500267'
+TOKEN='YOUR_TELEGRAM_TOKEN'
+CHAT_ID='YOUR_TELEGRAM_CHAT_ID'
 URL="https://api.telegram.org/bot$TOKEN/sendMessage"
 
 curl -s -X POST $URL -d chat_id=$CHAT_ID -d text="$MESSAGE"
