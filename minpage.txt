@@ -3053,7 +3053,7 @@ p.display-medium-subtitle {
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="/cdn-cgi/l/email-protection#72111d1c06131106321f1b1c010513025c1d0015" target="_blank">
+											<a href="/cdn-cgi/l/email-protection#e4878b8a90858790a4898d8a97938594ca8b9683" target="_blank">
 
 											<span class="elementor-icon-list-text">Contact Us</span>
 											</a>
@@ -3319,7 +3319,7 @@ p.display-medium-subtitle {
 <script type='text/javascript' src='https://minswap.org/wp-content/plugins/jet-engine/assets/lib/slick/slick.min.js?ver=1.8.1' id='jquery-slick-js'></script>
 <script type='text/javascript' id='jet-engine-frontend-js-extra'>
 /* <![CDATA[ */
-var JetEngineSettings = {"ajaxurl":"https:\/\/minswap.org\/wp-admin\/admin-ajax.php","ajaxlisting":"https:\/\/minswap.org\/?nocache=1668635352","hoverActionTimeout":"400","addedPostCSS":["1219","1207","413"]};
+var JetEngineSettings = {"ajaxurl":"https:\/\/minswap.org\/wp-admin\/admin-ajax.php","ajaxlisting":"https:\/\/minswap.org\/?nocache=1668635732","hoverActionTimeout":"400","addedPostCSS":["1219","1207","413"]};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://minswap.org/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=3.0.6.1' id='jet-engine-frontend-js'></script>
