@@ -11,7 +11,18 @@ token_name="${token_name:3}"
 echo "Name: $token_name">>minprice.txt
 
 token_price=$(cat minpage.txt | grep -Poz '(?<=class="jet-listing-dynamic-field__content">).*?(?<=₳)' | awk '{print $1}')
-echo "Price: $token_price"+'₳'>>minprice.txt
+echo "Price: $token_price"'₳'>>minprice.txt
 
 
 cat minprice.txt
+
+MESSAGE=$(cat minprice.txt)
+echo "Sending the price to your telegram chat"
+
+TOKEN='5681540714:AAEXiIvabIGfHoGS4yxIRHJjH7NGWyJkJfc'
+CHAT_ID='1506500267'
+URL="https://api.telegram.org/bot$TOKEN/sendMessage"
+
+curl -s -X POST $URL -d chat_id=$CHAT_ID -d text="$MESSAGE"
+
+echo "Finito"

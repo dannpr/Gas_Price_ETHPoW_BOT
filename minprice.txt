@@ -1,4 +1,4 @@
 This is the current  price of MIN
  
 Name: MIN
-Price: 0.0360 ?~B?
+Price: 0.0360₳
