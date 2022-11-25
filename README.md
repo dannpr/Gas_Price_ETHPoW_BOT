@@ -26,7 +26,7 @@ SetUp a bot on Telegram by using @BotFather and get your chat_id.
 
 ## Cron Job configuration (Linux)
 
-after cloning this repo, you can setup a cron job to get Telegram notification every 30 minutes for example.
+after cloning this repo, you can setup a cron job to get Telegram notification every day for example.
 
 ```bash
 crontab –e
