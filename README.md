@@ -35,7 +35,7 @@ crontab –e
 In the crontab terminal edit and write :
 
 ```bash
-0 * * * * <PATH_TO_get_price.sh>
+0 12 * * 1 <PATH_TO_get_price.sh>
 ```
 
 ```bash
