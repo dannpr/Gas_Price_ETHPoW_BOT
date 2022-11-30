@@ -6,7 +6,7 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
-	<!-- This site is optimized with the Yoast SEO plugin v19.10 - https://yoast.com/wordpress/plugins/seo/ -->
+	
 	<title>Minswap | Multi-pool decentralized exchange on Cardano Blockchain.</title>
 	<meta name="description" content="Minswap is a multi-pool decentralized exchange on Cardano. Swap tokens with minimal cost, minimal time and maximal convenience." />
 	<link rel="canonical" href="https://minswap.org/" />
@@ -16,23 +16,23 @@
 	<meta property="og:description" content="Minswap is a multi-pool decentralized exchange on Cardano. Swap tokens with minimal cost, minimal time and maximal convenience." />
 	<meta property="og:url" content="https://minswap.org/" />
 	<meta property="og:site_name" content="Minswap" />
-	<meta property="article:modified_time" content="2022-11-08T19:16:15+00:00" />
-	<meta property="og:image" content="https://minswap.org/wp-content/uploads/2022/06/Frame-23-1024x520.jpg" />
+	<meta property="article:modified_time" content="2022-11-24T22:50:51+00:00" />
+	<meta property="og:image" content="https://minswap.org/storage/2022/06/Frame-23-1024x520.jpg" />
 	<meta property="og:image:width" content="1024" />
 	<meta property="og:image:height" content="520" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:site" content="@MinswapDEX" />
 	<meta name="twitter:label1" content="Est. reading time" />
-	<meta name="twitter:data1" content="44 minutes" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://minswap.org/","url":"https://minswap.org/","name":"Minswap | Multi-pool decentralized exchange on Cardano Blockchain.","isPartOf":{"@id":"https://minswap.org/#website"},"about":{"@id":"https://minswap.org/#organization"},"primaryImageOfPage":{"@id":"https://minswap.org/#primaryimage"},"image":{"@id":"https://minswap.org/#primaryimage"},"thumbnailUrl":"https://minswap.org/wp-content/uploads/2022/06/Frame-23.jpg","datePublished":"2022-05-27T08:56:02+00:00","dateModified":"2022-11-08T19:16:15+00:00","description":"Minswap is a multi-pool decentralized exchange on Cardano. Swap tokens with minimal cost, minimal time and maximal convenience.","breadcrumb":{"@id":"https://minswap.org/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://minswap.org/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://minswap.org/#primaryimage","url":"https://minswap.org/wp-content/uploads/2022/06/Frame-23.jpg","contentUrl":"https://minswap.org/wp-content/uploads/2022/06/Frame-23.jpg","width":2048,"height":1040},{"@type":"BreadcrumbList","@id":"https://minswap.org/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://minswap.org/#website","url":"https://minswap.org/","name":"Minswap","description":"Multi-pool decentralized exchange on the Cardano blockchain","publisher":{"@id":"https://minswap.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://minswap.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://minswap.org/#organization","name":"Minswap","url":"https://minswap.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://minswap.org/#/schema/logo/image/","url":"https://minswap.org/wp-content/uploads/2022/03/Frame-9.svg","contentUrl":"https://minswap.org/wp-content/uploads/2022/03/Frame-9.svg","width":120,"height":30,"caption":"Minswap"},"image":{"@id":"https://minswap.org/#/schema/logo/image/"},"sameAs":["https://www.reddit.com/r/MinSwap/","https://discord.com/invite/amg2AFrPMJ","https://minswap-labs.medium.com/","https://t.me/MinswapMafia","https://twitter.com/MinswapDEX"]}]}</script>
-	<!-- / Yoast SEO plugin. -->
+	<meta name="twitter:data1" content="46 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://minswap.org/","url":"https://minswap.org/","name":"Minswap | Multi-pool decentralized exchange on Cardano Blockchain.","isPartOf":{"@id":"https://minswap.org/#website"},"about":{"@id":"https://minswap.org/#organization"},"primaryImageOfPage":{"@id":"https://minswap.org/#primaryimage"},"image":{"@id":"https://minswap.org/#primaryimage"},"thumbnailUrl":"https://minswap.org/storage/2022/06/Frame-23.jpg","datePublished":"2022-05-27T08:56:02+00:00","dateModified":"2022-11-24T22:50:51+00:00","description":"Minswap is a multi-pool decentralized exchange on Cardano. Swap tokens with minimal cost, minimal time and maximal convenience.","breadcrumb":{"@id":"https://minswap.org/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://minswap.org/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://minswap.org/#primaryimage","url":"https://minswap.org/storage/2022/06/Frame-23.jpg","contentUrl":"https://minswap.org/storage/2022/06/Frame-23.jpg","width":2048,"height":1040},{"@type":"BreadcrumbList","@id":"https://minswap.org/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://minswap.org/#website","url":"https://minswap.org/","name":"Minswap","description":"Multi-pool decentralized exchange on the Cardano blockchain","publisher":{"@id":"https://minswap.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://minswap.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://minswap.org/#organization","name":"Minswap","url":"https://minswap.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://minswap.org/#/schema/logo/image/","url":"https://minswap.org/storage/2022/03/Frame-9.svg","contentUrl":"https://minswap.org/storage/2022/03/Frame-9.svg","width":120,"height":30,"caption":"Minswap"},"image":{"@id":"https://minswap.org/#/schema/logo/image/"},"sameAs":["https://www.reddit.com/r/MinSwap/","https://discord.com/invite/amg2AFrPMJ","https://minswap-labs.medium.com/","https://t.me/MinswapMafia","https://twitter.com/MinswapDEX"]}]}</script>
+	
 
 
 <link rel="alternate" type="application/rss+xml" title="Minswap &raquo; Feed" href="https://minswap.org/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Minswap &raquo; Comments Feed" href="https://minswap.org/comments/feed/" />
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/minswap.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/minswap.org\/lib\/js\/wp-emoji-release.min.js"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -50,64 +50,61 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='wp-block-library-css' href='https://minswap.org/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='jet-engine-frontend-css' href='https://minswap.org/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.0.6.1' type='text/css' media='all' />
-<link rel='stylesheet' id='classic-theme-styles-css' href='https://minswap.org/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+	<link rel='stylesheet' id='wp-block-library-css' href='https://minswap.org/lib/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-engine-frontend-css' href='https://minswap.org/core/modules/6288320f55/assets/css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://minswap.org/lib/css/classic-themes.min.css' type='text/css' media='all' />
 <style id='global-styles-inline-css' type='text/css'>
 body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='cookie-law-info-css' href='https://minswap.org/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-public.css?ver=3.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://minswap.org/wp-content/plugins/cookie-law-info/legacy/public/css/cookie-law-info-gdpr.css?ver=3.0.5' type='text/css' media='all' />
-<link rel='stylesheet' id='display-medium-posts-css' href='https://minswap.org/wp-content/plugins/display-medium-posts/public/css/display-medium-posts-public.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='ace-owl-carousel-css' href='https://minswap.org/wp-content/plugins/display-medium-posts/public/vendors/owl-carousel/owl.carousel.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='ace-owl-theme-css' href='https://minswap.org/wp-content/plugins/display-medium-posts/public/vendors/owl-carousel/owl.theme.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-style-css' href='https://minswap.org/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.13' type='text/css' media='all' />
-<link rel='stylesheet' id='jet-elements-css' href='https://minswap.org/wp-content/plugins/jet-elements/assets/css/jet-elements.css?ver=2.6.7' type='text/css' media='all' />
-<link rel='stylesheet' id='jet-elements-skin-css' href='https://minswap.org/wp-content/plugins/jet-elements/assets/css/jet-elements-skin.css?ver=2.6.7' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css' href='https://minswap.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://minswap.org/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.8.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='https://minswap.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.8.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-6-css' href='https://minswap.org/wp-content/uploads/elementor/css/post-6.css?ver=1668469870' type='text/css' media='all' />
-<link rel='stylesheet' id='dce-style-css' href='https://minswap.org/wp-content/plugins/dynamic-content-for-elementor/assets/css/style.min.css?ver=2.7.9' type='text/css' media='all' />
-<link rel='stylesheet' id='dashicons-css' href='https://minswap.org/wp-includes/css/dashicons.min.css?ver=6.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-pro-css' href='https://minswap.org/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.8.1' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='https://minswap.org/wp-content/uploads/elementor/css/global.css?ver=1668470387' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-129-css' href='https://minswap.org/wp-content/uploads/elementor/css/post-129.css?ver=1668520034' type='text/css' media='all' />
-<link rel='stylesheet' id='hfe-widgets-style-css' href='https://minswap.org/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.13' type='text/css' media='all' />
-<link rel='stylesheet' id='hello-elementor-css' href='https://minswap.org/wp-content/themes/hello-elementor/style.min.css?ver=2.5.0' type='text/css' media='all' />
-<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://minswap.org/wp-content/themes/hello-elementor/theme.min.css?ver=2.5.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-1219-css' href='https://minswap.org/wp-content/uploads/elementor/css/post-1219.css?ver=1668469872' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-1207-css' href='https://minswap.org/wp-content/uploads/elementor/css/post-1207.css?ver=1668469872' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-413-css' href='https://minswap.org/wp-content/uploads/elementor/css/post-413.css?ver=1668469872' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-32-css' href='https://minswap.org/wp-content/uploads/elementor/css/post-32.css?ver=1668469872' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-200-css' href='https://minswap.org/wp-content/uploads/elementor/css/post-200.css?ver=1668469872' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://minswap.org/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='ekit-widget-styles-css' href='https://minswap.org/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='ekit-responsive-css' href='https://minswap.org/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.7.4' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://minswap.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://minswap.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://minswap.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' type='text/css' media='all' />
-<script type='text/javascript' src='https://minswap.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel='stylesheet' id='cookie-law-info-css' href='https://minswap.org/core/modules/7e4609f00f/legacy/public/css/cookie-law-info-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css' href='https://minswap.org/core/modules/7e4609f00f/legacy/public/css/cookie-law-info-gdpr.css' type='text/css' media='all' />
+<link rel='stylesheet' id='display-medium-posts-css' href='https://minswap.org/core/modules/ba887aecc3/public/css/display-medium-posts-public.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ace-owl-carousel-css' href='https://minswap.org/core/modules/ba887aecc3/public/vendors/owl-carousel/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ace-owl-theme-css' href='https://minswap.org/core/modules/ba887aecc3/public/vendors/owl-carousel/owl.theme.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css' href='https://minswap.org/core/modules/19264a84a8/assets/css/header-footer-elementor.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-elements-css' href='https://minswap.org/core/modules/6e430aa1a8/assets/css/jet-elements.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jet-elements-skin-css' href='https://minswap.org/core/modules/6e430aa1a8/assets/css/jet-elements-skin.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://minswap.org/core/modules/f65f29574d/assets/lib/eicons/css/elementor-icons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css' href='https://minswap.org/core/modules/f65f29574d/assets/css/frontend-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://minswap.org/core/modules/f65f29574d/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='https://minswap.org/storage/elementor/css/post-6.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dce-style-css' href='https://minswap.org/core/modules/913ca51c2d/assets/css/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://minswap.org/lib/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='https://minswap.org/core/modules/ccc473c329/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://minswap.org/storage/elementor/css/global.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-129-css' href='https://minswap.org/storage/elementor/css/post-129.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://minswap.org/core/modules/19264a84a8/inc/widgets-css/frontend.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://minswap.org/core/views/7a3fccae50/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://minswap.org/core/views/7a3fccae50/theme.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1219-css' href='https://minswap.org/storage/elementor/css/post-1219.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-1207-css' href='https://minswap.org/storage/elementor/css/post-1207.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-413-css' href='https://minswap.org/storage/elementor/css/post-413.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-32-css' href='https://minswap.org/storage/elementor/css/post-32.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-200-css' href='https://minswap.org/storage/elementor/css/post-200.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://minswap.org/core/modules/ee3d367a9e/modules/elementskit-icon-pack/assets/css/ekiticons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://minswap.org/core/modules/ee3d367a9e/widgets/init/assets/css/widget-styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://minswap.org/core/modules/ee3d367a9e/widgets/init/assets/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://minswap.org/core/modules/f65f29574d/assets/lib/font-awesome/css/fontawesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://minswap.org/core/modules/f65f29574d/assets/lib/font-awesome/css/brands.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://minswap.org/core/modules/f65f29574d/assets/lib/font-awesome/css/solid.min.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://minswap.org/lib/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://minswap.org/lib/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
 <script type='text/javascript' id='cookie-law-info-js-extra'>
 /* <![CDATA[ */
 var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
 var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#2f45c5","button_1_button_hover":"#26379e","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#f2f4f7","button_4_button_hover":"#c2c3c6","button_4_link_colour":"#667085","button_4_as_button":"1","button_7_button_colour":"#2f45c5","button_7_button_hover":"#26379e","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"Have a Cookie \ud83c\udf6a ","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
-var log_object = {"ajax_url":"https:\/\/minswap.org\/wp-admin\/admin-ajax.php"};
+var log_object = {"ajax_url":"https:\/\/minswap.org\/controlpanel\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/cookie-law-info/legacy/public/js/cookie-law-info-public.js?ver=3.0.5' id='cookie-law-info-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/display-medium-posts/public/vendors/owl-carousel/owl.carousel.js?ver=1.0.0' id='ace-owl-carousel-js-js'></script>
-<link rel="https://api.w.org/" href="https://minswap.org/wp-json/" /><link rel="alternate" type="application/json" href="https://minswap.org/wp-json/wp/v2/pages/129" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://minswap.org/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://minswap.org/wp-includes/wlwmanifest.xml" />
-<meta name="generator" content="WordPress 6.1.1" />
+<script type='text/javascript' src='https://minswap.org/core/modules/7e4609f00f/legacy/public/js/cookie-law-info-public.js' id='cookie-law-info-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ba887aecc3/public/vendors/owl-carousel/owl.carousel.js' id='ace-owl-carousel-js-js'></script>
 <link rel='shortlink' href='https://minswap.org/' />
 <link rel="alternate" type="application/json+oembed" href="https://minswap.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fminswap.org%2F" />
 <link rel="alternate" type="text/xml+oembed" href="https://minswap.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fminswap.org%2F&#038;format=xml" />
-<meta name="generator" content="Site Kit by Google 1.87.0" /><!-- Global site tag (gtag.js) - Google Analytics -->
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JJ68DC38WV"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -116,10 +113,10 @@ var log_object = {"ajax_url":"https:\/\/minswap.org\/wp-admin\/admin-ajax.php"};
 
   gtag('config', 'G-JJ68DC38WV');
 </script>
-<link rel="icon" href="https://minswap.org/wp-content/uploads/2022/05/fav-150x150.png" sizes="32x32" />
-<link rel="icon" href="https://minswap.org/wp-content/uploads/2022/05/fav.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://minswap.org/wp-content/uploads/2022/05/fav.png" />
-<meta name="msapplication-TileImage" content="https://minswap.org/wp-content/uploads/2022/05/fav.png" />
+<link rel="icon" href="https://minswap.org/storage/2022/05/fav-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://minswap.org/storage/2022/05/fav.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://minswap.org/storage/2022/05/fav.png" />
+<meta name="msapplication-TileImage" content="https://minswap.org/storage/2022/05/fav.png" />
 		<style type="text/css" id="wp-custom-css">
 			#display-medium-owl-demo .details-title {
     border-bottom: 0px solid #212121;
@@ -182,7 +179,7 @@ p.display-medium-subtitle {
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="https://minswap.org">
-							<img width="120" height="30" src="https://minswap.org/wp-content/uploads/2022/03/Frame-9.svg" class="attachment-large size-large" alt="" loading="lazy" />								</a>
+							<img width="120" height="30" src="https://minswap.org/storage/2022/03/Frame-9.svg" class="attachment-large size-large" alt="" loading="lazy" />								</a>
 														</div>
 						</div>
 				</div>
@@ -280,11 +277,30 @@ p.display-medium-subtitle {
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7bb2212" data-id="7bb2212" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-dea2164 elementor-cta--skin-cover elementor-cta--valign-bottom elementor-widget elementor-widget-call-to-action" data-id="dea2164" data-element_type="widget" data-widget_type="call-to-action.default">
+						<div class="elementor-element elementor-element-41ccd3a elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-widget elementor-widget-html" data-id="41ccd3a" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script>
+        jQuery(function($) {
+            function numberWithCommas(number) {
+                var parts = number.toString().split(".");
+                return parts[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            }
+
+            $(document).ready(function() {
+                $("#block h3,#block h2").each(function() {
+                    var num = $(this).text();
+                    var commaNum = numberWithCommas(num);
+                    $(this).text(commaNum);
+                });
+            });
+        });
+</script>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dea2164 elementor-cta--skin-cover elementor-cta--valign-bottom elementor-widget elementor-widget-call-to-action" data-id="dea2164" data-element_type="widget" data-widget_type="call-to-action.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://minswap.org/wp-content/uploads/2022/05/Frame-23-1-scaled.jpg);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(https://minswap.org/storage/2022/05/Frame-23-1-scaled.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
@@ -323,9 +339,9 @@ p.display-medium-subtitle {
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Total Value Locked</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-3140933 elementor-widget elementor-widget-dyncontel-remotecontent" data-id="3140933" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="dyncontel-remotecontent.default">
+				<div class="elementor-element elementor-element-3140933 elementor-widget elementor-widget-dyncontel-remotecontent" data-id="3140933" data-element_type="widget" id="block" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="dyncontel-remotecontent.default">
 				<div class="elementor-widget-container">
-			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3>85532509 ₳</h3></div></div>		</div>
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3>89066905 ₳</h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -337,9 +353,9 @@ p.display-medium-subtitle {
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">Volume Last 24H</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-58ce0ea elementor-widget elementor-widget-dyncontel-remotecontent" data-id="58ce0ea" data-element_type="widget" data-widget_type="dyncontel-remotecontent.default">
+				<div class="elementor-element elementor-element-58ce0ea elementor-widget elementor-widget-dyncontel-remotecontent" data-id="58ce0ea" data-element_type="widget" id="block" data-widget_type="dyncontel-remotecontent.default">
 				<div class="elementor-widget-container">
-			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3> 1413723 ₳</h3></div></div>		</div>
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3> 990495 ₳</h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -353,7 +369,55 @@ p.display-medium-subtitle {
 				</div>
 				<div class="elementor-element elementor-element-892e2e9 elementor-widget elementor-widget-dyncontel-remotecontent" data-id="892e2e9" data-element_type="widget" data-widget_type="dyncontel-remotecontent.default">
 				<div class="elementor-widget-container">
-			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3>616</h3></div></div>		</div>
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3>692</h3></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8e113f9 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e113f9" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4458074 block" data-id="4458074" data-element_type="column" id="block">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2ebc2bc elementor-widget elementor-widget-heading" data-id="2ebc2bc" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Daily Emissions</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2953b28 elementor-widget elementor-widget-dyncontel-remotecontent" data-id="2953b28" data-element_type="widget" id="block" data-settings="{&quot;_animation&quot;:&quot;none&quot;}" data-widget_type="dyncontel-remotecontent.default">
+				<div class="elementor-widget-container">
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3>705904.8736625 MIN</h3></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bd7a1d7" data-id="bd7a1d7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c2f9f8a elementor-widget elementor-widget-heading" data-id="c2f9f8a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Circulating Supply</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8b81b5e elementor-widget elementor-widget-dyncontel-remotecontent" data-id="8b81b5e" data-element_type="widget" id="block" data-widget_type="dyncontel-remotecontent.default">
+				<div class="elementor-widget-container">
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3> 570829543.6771679</h3></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-c686db1" data-id="c686db1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e32b9f5 elementor-widget elementor-widget-heading" data-id="e32b9f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Market Cap</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d0b16be elementor-widget elementor-widget-dyncontel-remotecontent" data-id="d0b16be" data-element_type="widget" id="block" data-widget_type="dyncontel-remotecontent.default">
+				<div class="elementor-widget-container">
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3>25433907.256200180596484160637250569</h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -375,7 +439,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div data-dce-advanced-background-color="#F9F5FF" class="elementor-element elementor-element-5aea005 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="5aea005" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="172" height="166" src="https://minswap.org/wp-content/uploads/2022/05/logo-1.png" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Earn</h3><p class="elementor-image-box-description">Liquidity Providers that deposit both assets of a pair are rewarded with swap fees.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="172" height="166" src="https://minswap.org/storage/2022/05/logo-1.png" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Earn</h3><p class="elementor-image-box-description">Liquidity Providers that deposit both assets of a pair are rewarded with swap fees.</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -385,7 +449,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div data-dce-advanced-background-color="#F3FAF7" class="elementor-element elementor-element-77bdd40 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="77bdd40" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="172" height="166" src="https://minswap.org/wp-content/uploads/2022/05/logo-7.png" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Farm</h3><p class="elementor-image-box-description">MIN tokens are rewarded to Liquidity providers who stake their Liquidity Pool Tokens.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="172" height="166" src="https://minswap.org/storage/2022/05/logo-7.png" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Farm</h3><p class="elementor-image-box-description">MIN tokens are rewarded to Liquidity providers who stake their Liquidity Pool Tokens.</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -401,7 +465,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div data-dce-advanced-background-color="#F0F9FF" class="elementor-element elementor-element-45535d4 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="45535d4" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="100" height="100" src="https://minswap.org/wp-content/uploads/2022/05/Flash_perspective_matte-1.svg" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Zap-In</h3><p class="elementor-image-box-description">Provide Liquidity with one token of the pair.</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="100" height="100" src="https://minswap.org/storage/2022/05/Flash_perspective_matte-1.svg" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Zap-In</h3><p class="elementor-image-box-description">Provide Liquidity with one token of the pair.</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -420,7 +484,7 @@ p.display-medium-subtitle {
 				<div class="elementor-element elementor-element-05f81b4 elementor-widget elementor-widget-image" data-id="05f81b4" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="570" height="247" src="https://minswap.org/wp-content/uploads/2022/05/Phone-Perspective.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/05/Phone-Perspective.png 570w, https://minswap.org/wp-content/uploads/2022/05/Phone-Perspective-300x130.png 300w" sizes="(max-width: 570px) 100vw, 570px" />														</div>
+												<img decoding="async" width="570" height="247" src="https://minswap.org/storage/2022/05/Phone-Perspective.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/05/Phone-Perspective.png 570w, https://minswap.org/storage/2022/05/Phone-Perspective-300x130.png 300w" sizes="(max-width: 570px) 100vw, 570px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -481,7 +545,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-06dadc7 elementor-widget__width-initial elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="06dadc7" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="120" height="120" src="https://minswap.org/wp-content/uploads/2022/11/LBE-Token-Image.png" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Indigo </h2></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="120" height="120" src="https://minswap.org/storage/2022/11/LBE-Token-Image.png" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Indigo </h2></div></div>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5987900 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5987900" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -495,7 +559,7 @@ p.display-medium-subtitle {
 				</div>
 				<div class="elementor-element elementor-element-7609bd0 elementor-widget elementor-widget-heading" data-id="7609bd0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-medium">November 20th 11pm UTC</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-medium">Ended</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-809e381 elementor-widget elementor-widget-heading" data-id="809e381" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -525,7 +589,7 @@ p.display-medium-subtitle {
 				</div>
 				<div class="elementor-element elementor-element-e9874ca elementor-widget elementor-widget-heading" data-id="e9874ca" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">1.57M ₳</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">3.33M</h2>		</div>
 				</div>
 						</div>
 					</div>
@@ -553,7 +617,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div data-dce-advanced-background-color="#FFFFFF" class="elementor-element elementor-element-06dadc7 elementor-widget__width-initial elementor-position-left elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="06dadc7" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="60" height="60" src="https://minswap.org/wp-content/uploads/2022/07/logo-8.png" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Mocossi Planet</h2></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" width="60" height="60" src="https://minswap.org/storage/2022/07/logo-8.png" class="attachment-full size-full" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h2 class="elementor-image-box-title">Mocossi Planet</h2></div></div>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5987900 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5987900" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -567,7 +631,7 @@ p.display-medium-subtitle {
 				</div>
 				<div class="elementor-element elementor-element-7609bd0 elementor-widget elementor-widget-heading" data-id="7609bd0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-medium">2022-07-25 18:00 GMT+4​</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-medium">Ended</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-809e381 elementor-widget elementor-widget-heading" data-id="809e381" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -790,7 +854,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0360 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0446 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -800,7 +864,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">19,571,897 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">25,433,907 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -810,7 +874,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">54,299 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">173,358 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -820,7 +884,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">29,881,778 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">35,778,547 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -830,7 +894,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">32.77</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">34.57</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -868,7 +932,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0360 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0446 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -878,7 +942,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">32.77</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">34.57</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -922,7 +986,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.4290 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.4823 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -932,7 +996,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">136,807,636 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">154,702,801 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -942,7 +1006,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">330,762 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">383,600 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -952,7 +1016,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">10,525,980 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">11,317,596 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -962,7 +1026,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">9.67</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">9.90</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1000,7 +1064,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.4290 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.4823 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1010,139 +1074,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">9.67</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		</div><div class="jet-listing-grid__item jet-listing-dynamic-post-129 jet-equal-columns" data-post-id="129" >		<div data-elementor-type="jet-listing-items" data-elementor-id="1207" class="elementor elementor-1207">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-8aee806 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8aee806" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-						<div class="elementor-container elementor-column-gap-narrow">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-d6f0bdc" data-id="d6f0bdc" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-efe7a9d elementor-widget elementor-widget-image" data-id="efe7a9d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51" title="" alt="" />														</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-ebabe36" data-id="ebabe36" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-53bfd56 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="53bfd56" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">LQ</div></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-91a1bd7" data-id="91a1bd7" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">62.6761 ₳</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-88353f0" data-id="88353f0" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">1,316,198,374 ₳</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-663a7bd" data-id="663a7bd" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">550,177 ₳</div></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-f6a668d" data-id="f6a668d" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">8,039,935 ₳</div></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-c831740" data-id="c831740" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">10.15</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f3bb6d elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default" data-id="5f3bb6d" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-						<div class="elementor-container elementor-column-gap-narrow">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3b7ee29" data-id="3b7ee29" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-55bca26 elementor-widget elementor-widget-image" data-id="55bca26" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51" title="" alt="" />														</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-93d793f" data-id="93d793f" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-971922a elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="971922a" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">LQ</div></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c0a3c58" data-id="c0a3c58" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">62.6761 ₳</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b2dd569" data-id="b2dd569" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">10.15</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">9.90</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1186,7 +1118,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0494 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0495 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1196,7 +1128,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">106,802,183 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">106,958,533 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1206,7 +1138,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">77,419 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">26,508 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1216,7 +1148,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">6,634,393 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">6,451,281 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1226,7 +1158,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">13.35</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">15.95</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1264,7 +1196,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0494 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0495 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1274,7 +1206,271 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">13.35</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">15.95</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		</div><div class="jet-listing-grid__item jet-listing-dynamic-post-129 jet-equal-columns" data-post-id="129" >		<div data-elementor-type="jet-listing-items" data-elementor-id="1207" class="elementor elementor-1207">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-8aee806 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8aee806" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-d6f0bdc" data-id="d6f0bdc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-efe7a9d elementor-widget elementor-widget-image" data-id="efe7a9d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51" title="" alt="" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-ebabe36" data-id="ebabe36" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-53bfd56 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="53bfd56" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">LQ</div></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-91a1bd7" data-id="91a1bd7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.0474 ₳</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-88353f0" data-id="88353f0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">17,920,714 ₳</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-663a7bd" data-id="663a7bd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">75,550 ₳</div></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-f6a668d" data-id="f6a668d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">5,518,489 ₳</div></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-c831740" data-id="c831740" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">21.07</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f3bb6d elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default" data-id="5f3bb6d" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3b7ee29" data-id="3b7ee29" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-55bca26 elementor-widget elementor-widget-image" data-id="55bca26" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/da8c30857834c6ae7203935b89278c532b3995245295456f993e1d244c51" title="" alt="" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-93d793f" data-id="93d793f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-971922a elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="971922a" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">LQ</div></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c0a3c58" data-id="c0a3c58" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.0474 ₳</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b2dd569" data-id="b2dd569" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">21.07</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+									</div>
+			</div>
+					</div>
+		</div><div class="jet-listing-grid__item jet-listing-dynamic-post-129 jet-equal-columns" data-post-id="129" >		<div data-elementor-type="jet-listing-items" data-elementor-id="1207" class="elementor elementor-1207">
+						<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-8aee806 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8aee806" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-d6f0bdc" data-id="d6f0bdc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-efe7a9d elementor-widget elementor-widget-image" data-id="efe7a9d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459" title="" alt="" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-ebabe36" data-id="ebabe36" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-53bfd56 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="53bfd56" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">INDY</div></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-91a1bd7" data-id="91a1bd7" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">10.0347 ₳</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-88353f0" data-id="88353f0" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0 ₳</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-663a7bd" data-id="663a7bd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">181,098 ₳</div></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-f6a668d" data-id="f6a668d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">3,115,405 ₳</div></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-c831740" data-id="c831740" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">45.18</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f3bb6d elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default" data-id="5f3bb6d" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
+						<div class="elementor-container elementor-column-gap-narrow">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3b7ee29" data-id="3b7ee29" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-55bca26 elementor-widget elementor-widget-image" data-id="55bca26" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-image">
+												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459" title="" alt="" />														</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-93d793f" data-id="93d793f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-971922a elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="971922a" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">INDY</div></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c0a3c58" data-id="c0a3c58" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">10.0347 ₳</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b2dd569" data-id="b2dd569" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
+				<div class="elementor-widget-container">
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">45.18</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1318,7 +1514,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.8432 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.6695 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1328,7 +1524,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">8,671,550 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7,019,594 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1338,7 +1534,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">79,840 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">56,473 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1348,7 +1544,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">3,438,056 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,650,012 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1358,7 +1554,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">36.33</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">46.08</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1396,7 +1592,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.8432 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.6695 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1406,7 +1602,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">36.33</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">46.08</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1450,7 +1646,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0354 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0338 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1470,7 +1666,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">57,819 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">11,707 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1480,7 +1676,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,516,762 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,351,867 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1490,7 +1686,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">6.56</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7.10</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1528,7 +1724,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0354 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0338 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1538,7 +1734,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">6.56</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7.10</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1582,7 +1778,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0109 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0093 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1592,7 +1788,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">20,641,870 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">17,596,187 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1602,7 +1798,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">11,133 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">57,234 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1612,7 +1808,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,290,784 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,071,037 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1622,7 +1818,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">52.50</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.52</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1660,7 +1856,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0109 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0093 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1670,7 +1866,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">52.50</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.52</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1714,7 +1910,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0867 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0839 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1734,7 +1930,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">88,343 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">302,198 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1744,7 +1940,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,197,748 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">1,948,742 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1754,7 +1950,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">62.61</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">65.07</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1792,7 +1988,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0867 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0839 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1802,7 +1998,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">62.61</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">65.07</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1825,7 +2021,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-efe7a9d elementor-widget elementor-widget-image" data-id="efe7a9d" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/c88bbd1848db5ea665b1fffbefba86e8dcd723b5085348e8a8d2260f44414e41" title="" alt="" />														</div>
+												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d" title="" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1836,7 +2032,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-53bfd56 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="53bfd56" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">DANA</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">COPI</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1846,7 +2042,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.2258 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0630 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1856,7 +2052,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">10,593,480 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1866,7 +2062,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">71,010 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">71,549 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1876,7 +2072,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,128,123 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">1,812,110 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1886,7 +2082,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">40.23</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">19.30</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1903,7 +2099,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-55bca26 elementor-widget elementor-widget-image" data-id="55bca26" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/c88bbd1848db5ea665b1fffbefba86e8dcd723b5085348e8a8d2260f44414e41" title="" alt="" />														</div>
+												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/b6a7467ea1deb012808ef4e87b5ff371e85f7142d7b356a40d9b42a0436f726e75636f70696173205b76696120436861696e506f72742e696f5d" title="" alt="" />														</div>
 						</div>
 				</div>
 						</div>
@@ -1914,7 +2110,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-971922a elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="971922a" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">DANA</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">COPI</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1924,7 +2120,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.2258 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0630 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1934,139 +2130,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">40.23</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-									</div>
-			</div>
-					</div>
-		</div><div class="jet-listing-grid__item jet-listing-dynamic-post-129 jet-equal-columns" data-post-id="129" >		<div data-elementor-type="jet-listing-items" data-elementor-id="1207" class="elementor elementor-1207">
-						<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-8aee806 elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8aee806" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-						<div class="elementor-container elementor-column-gap-narrow">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-d6f0bdc" data-id="d6f0bdc" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-efe7a9d elementor-widget elementor-widget-image" data-id="efe7a9d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/ce5b9e0f8a88255b65f2e4d065c6e716e9fa9a8a86dfb86423dd1ac044494e47" title="" alt="" />														</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-ebabe36" data-id="ebabe36" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-53bfd56 elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="53bfd56" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">DING</div></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-91a1bd7" data-id="91a1bd7" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0281 ₳</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-88353f0" data-id="88353f0" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">1,723,012 ₳</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-663a7bd" data-id="663a7bd" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">1,994 ₳</div></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-f6a668d" data-id="f6a668d" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">1,724,564 ₳</div></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-14 elementor-top-column elementor-element elementor-element-c831740" data-id="c831740" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">57.54</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f3bb6d elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-section-height-default elementor-section-height-default" data-id="5f3bb6d" data-element_type="section" data-settings="{&quot;jet_parallax_layout_list&quot;:[]}">
-						<div class="elementor-container elementor-column-gap-narrow">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3b7ee29" data-id="3b7ee29" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-55bca26 elementor-widget elementor-widget-image" data-id="55bca26" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img decoding="async" src="https://minswap-asset-logos.s3.amazonaws.com/ce5b9e0f8a88255b65f2e4d065c6e716e9fa9a8a86dfb86423dd1ac044494e47" title="" alt="" />														</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-93d793f" data-id="93d793f" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-971922a elementor-widget__width-auto elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="971922a" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">DING</div></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c0a3c58" data-id="c0a3c58" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0281 ₳</p></div></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b2dd569" data-id="b2dd569" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
-				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">57.54</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">19.30</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2108,7 +2172,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-0209807 elementor-widget elementor-widget-image" data-id="0209807" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="800" height="508" src="https://minswap.org/wp-content/uploads/2022/06/Frame-16-6.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/06/Frame-16-6.jpg 1008w, https://minswap.org/wp-content/uploads/2022/06/Frame-16-6-300x190.jpg 300w, https://minswap.org/wp-content/uploads/2022/06/Frame-16-6-768x488.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />														</div>
+												<img decoding="async" width="800" height="508" src="https://minswap.org/storage/2022/06/Frame-16-6.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/06/Frame-16-6.jpg 1008w, https://minswap.org/storage/2022/06/Frame-16-6-300x190.jpg 300w, https://minswap.org/storage/2022/06/Frame-16-6-768x488.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-05954ba elementor-widget elementor-widget-heading" data-id="05954ba" data-element_type="widget" data-widget_type="heading.default">
@@ -2141,7 +2205,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-2df53b6 elementor-widget elementor-widget-image" data-id="2df53b6" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="800" height="508" src="https://minswap.org/wp-content/uploads/2022/06/Frame-16-7.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/06/Frame-16-7.jpg 1008w, https://minswap.org/wp-content/uploads/2022/06/Frame-16-7-300x190.jpg 300w, https://minswap.org/wp-content/uploads/2022/06/Frame-16-7-768x488.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />														</div>
+												<img decoding="async" width="800" height="508" src="https://minswap.org/storage/2022/06/Frame-16-7.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/06/Frame-16-7.jpg 1008w, https://minswap.org/storage/2022/06/Frame-16-7-300x190.jpg 300w, https://minswap.org/storage/2022/06/Frame-16-7-768x488.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-9e39b7d elementor-widget elementor-widget-heading" data-id="9e39b7d" data-element_type="widget" data-widget_type="heading.default">
@@ -2192,7 +2256,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-8592bde elementor-widget elementor-widget-image" data-id="8592bde" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="120" height="121" src="https://minswap.org/wp-content/uploads/2022/05/😸.png" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img decoding="async" width="120" height="121" src="https://minswap.org/storage/2022/05/😸.png" class="attachment-large size-large" alt="" loading="lazy" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-d3b89a6 elementor-widget elementor-widget-heading" data-id="d3b89a6" data-element_type="widget" data-widget_type="heading.default">
@@ -2202,7 +2266,7 @@ p.display-medium-subtitle {
 				<div class="elementor-element elementor-element-403a863 elementor-hidden-desktop elementor-widget elementor-widget-image" data-id="403a863" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="280" height="280" src="https://minswap.org/wp-content/uploads/2022/05/tokenomics-piechart.svg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img decoding="async" width="280" height="280" src="https://minswap.org/storage/2022/05/tokenomics-piechart.svg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-7d9a4af elementor-icon-list--layout-inline elementor-align-center elementor-hidden-desktop elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7d9a4af" data-element_type="widget" data-widget_type="icon-list.default">
@@ -2269,7 +2333,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-4240ba7 elementor-widget elementor-widget-image" data-id="4240ba7" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="280" height="280" src="https://minswap.org/wp-content/uploads/2022/05/tokenomics-piechart.svg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
+												<img decoding="async" width="280" height="280" src="https://minswap.org/storage/2022/05/tokenomics-piechart.svg" class="attachment-large size-large" alt="" loading="lazy" />														</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-4436b94 elementor-icon-list--layout-inline elementor-align-center elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4436b94" data-element_type="widget" data-widget_type="icon-list.default">
@@ -2553,7 +2617,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="1100" height="318" src="https://minswap.org/wp-content/uploads/2022/09/mocossipng-1.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/09/mocossipng-1.png 1100w, https://minswap.org/wp-content/uploads/2022/09/mocossipng-1-300x87.png 300w, https://minswap.org/wp-content/uploads/2022/09/mocossipng-1-1024x296.png 1024w, https://minswap.org/wp-content/uploads/2022/09/mocossipng-1-768x222.png 768w" sizes="(max-width: 1100px) 100vw, 1100px" />														</div>
+												<img decoding="async" width="1100" height="318" src="https://minswap.org/storage/2022/09/mocossipng-1.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/09/mocossipng-1.png 1100w, https://minswap.org/storage/2022/09/mocossipng-1-300x87.png 300w, https://minswap.org/storage/2022/09/mocossipng-1-1024x296.png 1024w, https://minswap.org/storage/2022/09/mocossipng-1-768x222.png 768w" sizes="(max-width: 1100px) 100vw, 1100px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2577,7 +2641,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="1208" height="294" src="https://minswap.org/wp-content/uploads/2022/08/ce2600c6c0-certik-logo-certik.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/08/ce2600c6c0-certik-logo-certik.png 1208w, https://minswap.org/wp-content/uploads/2022/08/ce2600c6c0-certik-logo-certik-300x73.png 300w, https://minswap.org/wp-content/uploads/2022/08/ce2600c6c0-certik-logo-certik-1024x249.png 1024w, https://minswap.org/wp-content/uploads/2022/08/ce2600c6c0-certik-logo-certik-768x187.png 768w" sizes="(max-width: 1208px) 100vw, 1208px" />														</div>
+												<img decoding="async" width="1208" height="294" src="https://minswap.org/storage/2022/08/ce2600c6c0-certik-logo-certik.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/08/ce2600c6c0-certik-logo-certik.png 1208w, https://minswap.org/storage/2022/08/ce2600c6c0-certik-logo-certik-300x73.png 300w, https://minswap.org/storage/2022/08/ce2600c6c0-certik-logo-certik-1024x249.png 1024w, https://minswap.org/storage/2022/08/ce2600c6c0-certik-logo-certik-768x187.png 768w" sizes="(max-width: 1208px) 100vw, 1208px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2601,7 +2665,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="331" height="113" src="https://minswap.org/wp-content/uploads/2022/08/aada-logo-1.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/08/aada-logo-1.png 331w, https://minswap.org/wp-content/uploads/2022/08/aada-logo-1-300x102.png 300w" sizes="(max-width: 331px) 100vw, 331px" />														</div>
+												<img decoding="async" width="331" height="113" src="https://minswap.org/storage/2022/08/aada-logo-1.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/08/aada-logo-1.png 331w, https://minswap.org/storage/2022/08/aada-logo-1-300x102.png 300w" sizes="(max-width: 331px) 100vw, 331px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2625,7 +2689,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="1100" height="318" src="https://minswap.org/wp-content/uploads/2022/06/mocossipng.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/06/mocossipng.png 1100w, https://minswap.org/wp-content/uploads/2022/06/mocossipng-300x87.png 300w, https://minswap.org/wp-content/uploads/2022/06/mocossipng-1024x296.png 1024w, https://minswap.org/wp-content/uploads/2022/06/mocossipng-768x222.png 768w" sizes="(max-width: 1100px) 100vw, 1100px" />														</div>
+												<img decoding="async" width="1100" height="318" src="https://minswap.org/storage/2022/06/mocossipng.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/06/mocossipng.png 1100w, https://minswap.org/storage/2022/06/mocossipng-300x87.png 300w, https://minswap.org/storage/2022/06/mocossipng-1024x296.png 1024w, https://minswap.org/storage/2022/06/mocossipng-768x222.png 768w" sizes="(max-width: 1100px) 100vw, 1100px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2649,7 +2713,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="1000" height="271" src="https://minswap.org/wp-content/uploads/2022/06/cardahub.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/06/cardahub.png 1000w, https://minswap.org/wp-content/uploads/2022/06/cardahub-300x81.png 300w, https://minswap.org/wp-content/uploads/2022/06/cardahub-768x208.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />														</div>
+												<img decoding="async" width="1000" height="271" src="https://minswap.org/storage/2022/06/cardahub.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/06/cardahub.png 1000w, https://minswap.org/storage/2022/06/cardahub-300x81.png 300w, https://minswap.org/storage/2022/06/cardahub-768x208.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2673,7 +2737,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="1100" height="318" src="https://minswap.org/wp-content/uploads/2022/06/next_static_media_Indigo.44f68456.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/06/next_static_media_Indigo.44f68456.png 1100w, https://minswap.org/wp-content/uploads/2022/06/next_static_media_Indigo.44f68456-300x87.png 300w, https://minswap.org/wp-content/uploads/2022/06/next_static_media_Indigo.44f68456-1024x296.png 1024w, https://minswap.org/wp-content/uploads/2022/06/next_static_media_Indigo.44f68456-768x222.png 768w" sizes="(max-width: 1100px) 100vw, 1100px" />														</div>
+												<img decoding="async" width="1100" height="318" src="https://minswap.org/storage/2022/06/next_static_media_Indigo.44f68456.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/06/next_static_media_Indigo.44f68456.png 1100w, https://minswap.org/storage/2022/06/next_static_media_Indigo.44f68456-300x87.png 300w, https://minswap.org/storage/2022/06/next_static_media_Indigo.44f68456-1024x296.png 1024w, https://minswap.org/storage/2022/06/next_static_media_Indigo.44f68456-768x222.png 768w" sizes="(max-width: 1100px) 100vw, 1100px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2697,7 +2761,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="350" height="100" src="https://minswap.org/wp-content/uploads/2022/06/next_static_media_Strica.e4cbe6b9.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/06/next_static_media_Strica.e4cbe6b9.png 350w, https://minswap.org/wp-content/uploads/2022/06/next_static_media_Strica.e4cbe6b9-300x86.png 300w" sizes="(max-width: 350px) 100vw, 350px" />														</div>
+												<img decoding="async" width="350" height="100" src="https://minswap.org/storage/2022/06/next_static_media_Strica.e4cbe6b9.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/06/next_static_media_Strica.e4cbe6b9.png 350w, https://minswap.org/storage/2022/06/next_static_media_Strica.e4cbe6b9-300x86.png 300w" sizes="(max-width: 350px) 100vw, 350px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2721,7 +2785,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="723" height="202" src="https://minswap.org/wp-content/uploads/2022/05/tweagopng.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/05/tweagopng.png 723w, https://minswap.org/wp-content/uploads/2022/05/tweagopng-300x84.png 300w" sizes="(max-width: 723px) 100vw, 723px" />														</div>
+												<img decoding="async" width="723" height="202" src="https://minswap.org/storage/2022/05/tweagopng.png" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/05/tweagopng.png 723w, https://minswap.org/storage/2022/05/tweagopng-300x84.png 300w" sizes="(max-width: 723px) 100vw, 723px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2745,7 +2809,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="422" height="106" src="https://minswap.org/wp-content/uploads/2022/05/next_static_media_GeroWallet.b7b41f7e-2.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/05/next_static_media_GeroWallet.b7b41f7e-2.jpg 422w, https://minswap.org/wp-content/uploads/2022/05/next_static_media_GeroWallet.b7b41f7e-2-300x75.jpg 300w" sizes="(max-width: 422px) 100vw, 422px" />														</div>
+												<img decoding="async" width="422" height="106" src="https://minswap.org/storage/2022/05/next_static_media_GeroWallet.b7b41f7e-2.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/05/next_static_media_GeroWallet.b7b41f7e-2.jpg 422w, https://minswap.org/storage/2022/05/next_static_media_GeroWallet.b7b41f7e-2-300x75.jpg 300w" sizes="(max-width: 422px) 100vw, 422px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2769,7 +2833,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-a7284ac elementor-widget__width-inherit par-class elementor-widget elementor-widget-image" data-id="a7284ac" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="383" height="92" src="https://minswap.org/wp-content/uploads/2022/05/next_static_media_Ada-handle-1.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/05/next_static_media_Ada-handle-1.jpg 383w, https://minswap.org/wp-content/uploads/2022/05/next_static_media_Ada-handle-1-300x72.jpg 300w" sizes="(max-width: 383px) 100vw, 383px" />														</div>
+												<img decoding="async" width="383" height="92" src="https://minswap.org/storage/2022/05/next_static_media_Ada-handle-1.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/05/next_static_media_Ada-handle-1.jpg 383w, https://minswap.org/storage/2022/05/next_static_media_Ada-handle-1-300x72.jpg 300w" sizes="(max-width: 383px) 100vw, 383px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -2815,7 +2879,7 @@ p.display-medium-subtitle {
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="https://play.google.com/store/apps/details?id=org.minswap.app" target="_blank">
-							<img decoding="async" width="201" height="61" src="https://minswap.org/wp-content/uploads/2022/05/Badge.svg" class="attachment-large size-large" alt="" loading="lazy" />								</a>
+							<img decoding="async" width="201" height="61" src="https://minswap.org/storage/2022/05/Badge.svg" class="attachment-large size-large" alt="" loading="lazy" />								</a>
 														</div>
 						</div>
 				</div>
@@ -2828,7 +2892,7 @@ p.display-medium-subtitle {
 						<div class="elementor-element elementor-element-c99c882 elementor-widget elementor-widget-image" data-id="c99c882" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<img decoding="async" width="800" height="641" src="https://minswap.org/wp-content/uploads/2022/05/mobile-1-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://minswap.org/wp-content/uploads/2022/05/mobile-1-1.png 844w, https://minswap.org/wp-content/uploads/2022/05/mobile-1-1-300x240.png 300w, https://minswap.org/wp-content/uploads/2022/05/mobile-1-1-768x615.png 768w" sizes="(max-width: 800px) 100vw, 800px" />														</div>
+												<img decoding="async" width="800" height="641" src="https://minswap.org/storage/2022/05/mobile-1-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://minswap.org/storage/2022/05/mobile-1-1.png 844w, https://minswap.org/storage/2022/05/mobile-1-1-300x240.png 300w, https://minswap.org/storage/2022/05/mobile-1-1-768x615.png 768w" sizes="(max-width: 800px) 100vw, 800px" />														</div>
 						</div>
 				</div>
 						</div>
@@ -3028,7 +3092,7 @@ p.display-medium-subtitle {
 	
 
 
-</section><!-- .comments-area -->
+</section>
 </main>
 
 			<div data-elementor-type="footer" data-elementor-id="200" class="elementor elementor-200 elementor-location-footer">
@@ -3053,7 +3117,7 @@ p.display-medium-subtitle {
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="/cdn-cgi/l/email-protection#c4a7abaab0a5a7b084a9adaab7b3a5b4eaabb6a3" target="_blank">
+											<a href="/cdn-cgi/l/email-protection#74171b1a0015170034191d1a070315045a1b0613" target="_blank">
 
 											<span class="elementor-icon-list-text">Contact Us</span>
 											</a>
@@ -3247,7 +3311,7 @@ p.display-medium-subtitle {
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 													<a href="https://minswap.org">
-							<img width="120" height="30" src="https://minswap.org/wp-content/uploads/2022/03/Frame-9.svg" class="attachment-large size-large" alt="" loading="lazy" />								</a>
+							<img width="120" height="30" src="https://minswap.org/storage/2022/03/Frame-9.svg" class="attachment-large size-large" alt="" loading="lazy" />								</a>
 														</div>
 						</div>
 				</div>
@@ -3264,7 +3328,7 @@ p.display-medium-subtitle {
 							</div>
 				</div>
 		
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><h5 class="cli_messagebar_head">Have a Cookie 🍪</h5><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">Some cookies baked to make the experience better, you can consent to the use of such cookies by using the “Accept All” button.</div><div class="cli-bar-btn_container"><a role='button' class="medium cli-plugin-button cli-plugin-main-button cli_settings_button">Cookie Settings</a><a id="wt-cli-accept-all-btn" role='button' data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Accept All</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<div id="cookie-law-info-bar" data-nosnippet="true"><h5 class="cli_messagebar_head">Have a Cookie 🍪</h5><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">Some cookies baked to make the experience better, you can consent to the use of such cookies by using the “Accept All” button.</div><div class="cli-bar-btn_container"><a role='button' class="medium cli-plugin-button cli-plugin-main-button cli_settings_button">Cookie Settings</a><a id="wt-cli-accept-all-btn" role='button' data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Accept All</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
   <div class="cli-modal-dialog" role="document">
 	<div class="cli-modal-content cli-bar-popup">
 		  <button type="button" class="cli-modal-close" id="cliModalClose">
@@ -3304,9 +3368,9 @@ p.display-medium-subtitle {
 </div>
 <div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
 <div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
-<!--googleon: all--><link rel='stylesheet' id='e-animations-css' href='https://minswap.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.8.1' type='text/css' media='all' />
-<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='https://minswap.org/wp-content/plugins/display-medium-posts/public/js/display-medium-posts-public.js?ver=1.0.0' id='display-medium-posts-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.7.4' id='elementskit-framework-js-frontend-js'></script>
+<link rel='stylesheet' id='e-animations-css' href='https://minswap.org/core/modules/f65f29574d/assets/lib/animations/animations.min.css' type='text/css' media='all' />
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript' src='https://minswap.org/core/modules/ba887aecc3/public/js/display-medium-posts-public.js' id='display-medium-posts-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ee3d367a9e/libs/framework/assets/js/frontend-script.js' id='elementskit-framework-js-frontend-js'></script>
 <script type='text/javascript' id='elementskit-framework-js-frontend-js-after'>
 		var elementskit = {
 			resturl: 'https://minswap.org/wp-json/elementskit/v1/',
@@ -3314,56 +3378,56 @@ p.display-medium-subtitle {
 
 		
 </script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.7.4' id='ekit-widget-scripts-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/jet-engine/assets/lib/slick/slick.min.js?ver=1.8.1' id='jquery-slick-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ee3d367a9e/widgets/init/assets/js/widget-scripts.js' id='ekit-widget-scripts-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ccc473c329/assets/lib/smartmenus/jquery.smartmenus.min.js' id='smartmenus-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/6288320f55/assets/lib/slick/slick.min.js' id='jquery-slick-js'></script>
 <script type='text/javascript' id='jet-engine-frontend-js-extra'>
 /* <![CDATA[ */
-var JetEngineSettings = {"ajaxurl":"https:\/\/minswap.org\/wp-admin\/admin-ajax.php","ajaxlisting":"https:\/\/minswap.org\/?nocache=1668640429","hoverActionTimeout":"400","addedPostCSS":["1219","1207","413"]};
+var JetEngineSettings = {"ajaxurl":"https:\/\/minswap.org\/controlpanel\/admin-ajax.php","ajaxlisting":"https:\/\/minswap.org\/?nocache=1669817281","hoverActionTimeout":"400","addedPostCSS":["1219","1207","413"]};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/jet-engine/assets/js/frontend.js?ver=3.0.6.1' id='jet-engine-frontend-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.8.1' id='elementor-pro-webpack-runtime-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.8.1' id='elementor-webpack-runtime-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.8.1' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/6288320f55/assets/js/frontend.js' id='jet-engine-frontend-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ccc473c329/assets/js/webpack-pro.runtime.min.js' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/f65f29574d/assets/js/webpack.runtime.min.js' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/f65f29574d/assets/js/frontend-modules.min.js' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://minswap.org/lib/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://minswap.org/lib/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://minswap.org/lib/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://minswap.org/lib/js/dist/i18n.min.js' id='wp-i18n-js'></script>
 <script type='text/javascript' id='wp-i18n-js-after'>
 wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 </script>
 <script type='text/javascript' id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/minswap.org\/wp-admin\/admin-ajax.php","nonce":"19ccc5c8fe","urls":{"assets":"https:\/\/minswap.org\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/minswap.org\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/minswap.org\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/minswap.org\/controlpanel\/admin-ajax.php","nonce":"c3794ce1d7","urls":{"assets":"https:\/\/minswap.org\/core\/modules\/ccc473c329\/assets\/","rest":"https:\/\/minswap.org\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/minswap.org\/core\/modules\/ccc473c329\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.8.1' id='elementor-pro-frontend-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.8.1' id='share-link-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0' id='elementor-dialog-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ccc473c329/assets/js/frontend.min.js' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/f65f29574d/assets/lib/waypoints/waypoints.min.js' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://minswap.org/lib/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/f65f29574d/assets/lib/swiper/swiper.min.js' id='swiper-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/f65f29574d/assets/lib/share-link/share-link.min.js' id='share-link-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/f65f29574d/assets/lib/dialog/dialog.min.js' id='elementor-dialog-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.8.1","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/minswap.org\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[],"dynamicooo":[]},"kit":{"body_background_background":"gradient","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":129,"title":"Minswap%20%7C%20Multi-pool%20decentralized%20exchange%20on%20Cardano%20Blockchain.","excerpt":"","featuredImage":"https:\/\/minswap.org\/wp-content\/uploads\/2022\/06\/Frame-23-1024x520.jpg"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.8.1","is_static":false,"experimentalFeatures":{"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/minswap.org\/core\/modules\/f65f29574d\/assets\/"},"settings":{"page":[],"editorPreferences":[],"dynamicooo":[]},"kit":{"body_background_background":"gradient","active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":129,"title":"Minswap%20%7C%20Multi-pool%20decentralized%20exchange%20on%20Cardano%20Blockchain.","excerpt":"","featuredImage":"https:\/\/minswap.org\/storage\/2022\/06\/Frame-23-1024x520.jpg"}};
 </script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.8.1' id='elementor-frontend-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.8.1' id='pro-preloaded-elements-handlers-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/f65f29574d/assets/js/frontend.min.js' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ccc473c329/assets/js/preloaded-elements-handlers.min.js' id='pro-preloaded-elements-handlers-js'></script>
 <script type='text/javascript' id='jet-elements-js-extra'>
 /* <![CDATA[ */
-var jetElements = {"ajaxUrl":"https:\/\/minswap.org\/wp-admin\/admin-ajax.php","isMobile":"false","templateApiUrl":"https:\/\/minswap.org\/wp-json\/jet-elements-api\/v1\/elementor-template","devMode":"false","messages":{"invalidMail":"Please specify a valid e-mail"}};
+var jetElements = {"ajaxUrl":"https:\/\/minswap.org\/controlpanel\/admin-ajax.php","isMobile":"false","templateApiUrl":"https:\/\/minswap.org\/wp-json\/jet-elements-api\/v1\/elementor-template","devMode":"false","messages":{"invalidMail":"Please specify a valid e-mail"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/jet-elements/assets/js/jet-elements.min.js?ver=2.6.7' id='jet-elements-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.7.4' id='animate-circle-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/6e430aa1a8/assets/js/jet-elements.min.js' id='jet-elements-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ee3d367a9e/widgets/init/assets/js/animate-circle.js' id='animate-circle-js'></script>
 <script type='text/javascript' id='elementskit-elementor-js-extra'>
 /* <![CDATA[ */
-var ekit_config = {"ajaxurl":"https:\/\/minswap.org\/wp-admin\/admin-ajax.php","nonce":"7f04bc0035"};
+var ekit_config = {"ajaxurl":"https:\/\/minswap.org\/controlpanel\/admin-ajax.php","nonce":"bce962c2ea"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.7.4' id='elementskit-elementor-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.8.1' id='preloaded-modules-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.8.1' id='e-sticky-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/dynamic-content-for-elementor/assets/js/settings.min.js?ver=2.7.9' id='dce-settings-js'></script>
-<script type='text/javascript' src='https://minswap.org/wp-content/plugins/dynamic-content-for-elementor/assets/js/fix-background-loop.min.js?ver=2.7.9' id='dce-fix-background-loop-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ee3d367a9e/widgets/init/assets/js/elementor.js' id='elementskit-elementor-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/f65f29574d/assets/js/preloaded-modules.min.js' id='preloaded-modules-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/ccc473c329/assets/lib/sticky/jquery.sticky.min.js' id='e-sticky-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/913ca51c2d/assets/js/settings.min.js' id='dce-settings-js'></script>
+<script type='text/javascript' src='https://minswap.org/core/modules/913ca51c2d/assets/js/fix-background-loop.min.js' id='dce-fix-background-loop-js'></script>
 
 </body>
 </html>
