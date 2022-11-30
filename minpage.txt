@@ -355,7 +355,7 @@ p.display-medium-subtitle {
 				</div>
 				<div class="elementor-element elementor-element-58ce0ea elementor-widget elementor-widget-dyncontel-remotecontent" data-id="58ce0ea" data-element_type="widget" id="block" data-widget_type="dyncontel-remotecontent.default">
 				<div class="elementor-widget-container">
-			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3> 1240504 ₳</h3></div></div>		</div>
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3> 1796625 ₳</h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -403,7 +403,7 @@ p.display-medium-subtitle {
 				</div>
 				<div class="elementor-element elementor-element-8b81b5e elementor-widget elementor-widget-dyncontel-remotecontent" data-id="8b81b5e" data-element_type="widget" id="block" data-widget_type="dyncontel-remotecontent.default">
 				<div class="elementor-widget-container">
-			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3> 570871007.9346275</h3></div></div>		</div>
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3> 571127358.3639212</h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -417,7 +417,7 @@ p.display-medium-subtitle {
 				</div>
 				<div class="elementor-element elementor-element-d0b16be elementor-widget elementor-widget-dyncontel-remotecontent" data-id="d0b16be" data-element_type="widget" id="block" data-widget_type="dyncontel-remotecontent.default">
 				<div class="elementor-widget-container">
-			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3>25440342.272118916510043213809073525</h3></div></div>		</div>
+			<div class="dynamic-remote-content"><div class="dynamic-remote-content-element"><h3>25454623.006441814368905449662848844</h3></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -864,7 +864,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">25,440,342 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">25,454,623 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -874,7 +874,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">153,407 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">156,978 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -884,7 +884,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">35,778,082 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">35,797,640 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -894,7 +894,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">34.57</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">34.54</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -942,7 +942,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">34.57</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">34.54</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -986,7 +986,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.4874 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.4934 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -996,7 +996,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">156,314,891 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">158,240,333 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1006,7 +1006,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">526,899 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">676,340 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1016,7 +1016,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">11,377,204 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">11,444,066 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1064,7 +1064,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.4874 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.4934 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1118,7 +1118,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0495 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0493 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1128,7 +1128,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">106,788,245 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">106,447,192 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1138,7 +1138,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">25,262 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">35,496 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1148,7 +1148,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">6,444,536 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">6,433,246 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1158,7 +1158,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">15.97</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">15.89</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1196,7 +1196,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0495 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0493 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1206,7 +1206,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">15.97</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">15.89</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1250,7 +1250,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.0565 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.0206 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1260,7 +1260,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">17,924,028 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">17,910,924 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1270,7 +1270,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">62,201 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">49,016 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1280,7 +1280,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">5,519,000 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">5,515,573 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1290,7 +1290,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">21.07</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">21.08</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1328,7 +1328,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.0565 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.0206 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1338,7 +1338,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">21.07</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">21.08</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1382,7 +1382,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">10.3709 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">9.9733 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1402,7 +1402,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">142,109 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">161,246 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1412,7 +1412,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">3,142,069 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">3,071,673 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1422,7 +1422,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">43.93</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">44.63</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1460,7 +1460,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">10.3709 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">9.9733 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1470,7 +1470,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">43.93</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">44.63</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1514,7 +1514,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.6689 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.6762 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1524,7 +1524,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7,012,510 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7,089,259 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1534,7 +1534,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">56,054 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">49,790 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1544,7 +1544,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,648,677 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,663,335 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1554,7 +1554,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">46.07</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">45.96</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1592,7 +1592,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.6689 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.6762 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1602,7 +1602,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">46.07</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">45.96</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1646,7 +1646,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0337 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0333 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1666,7 +1666,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">7,416 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">37,456 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1676,7 +1676,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,349,646 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,333,407 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1686,7 +1686,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7.04</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7.07</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1724,7 +1724,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0337 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0333 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1734,7 +1734,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7.04</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">7.07</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1788,7 +1788,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e5a10b2 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="e5a10b2" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">17,407,605 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">17,308,110 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1798,7 +1798,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">58,512 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">95,422 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1808,7 +1808,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,060,423 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">2,059,158 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1818,7 +1818,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.30</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.12</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1866,7 +1866,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.30</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">49.12</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1910,7 +1910,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0842 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0852 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1930,7 +1930,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">301,025 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">159,244 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1940,7 +1940,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">1,952,570 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">1,963,980 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1950,7 +1950,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">65.03</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">64.93</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1988,7 +1988,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0842 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0852 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -1998,7 +1998,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">65.03</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">64.93</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2042,7 +2042,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-92aa9a0 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="92aa9a0" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0633 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0620 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2062,7 +2062,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bd6c46b elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="bd6c46b" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">67,421 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">40,568 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2072,7 +2072,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f0c9673 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="f0c9673" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">1,816,910 ₳</div></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><div class="jet-listing-dynamic-field__content">1,794,472 ₳</div></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2082,7 +2082,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-1abf414 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="1abf414" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">18.60</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">18.05</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2120,7 +2120,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-dee9c31 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="dee9c31" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0633 ₳</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">0.0620 ₳</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -2130,7 +2130,7 @@ p.display-medium-subtitle {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-564e748 elementor-widget elementor-widget-jet-listing-dynamic-field" data-id="564e748" data-element_type="widget" data-widget_type="jet-listing-dynamic-field.default">
 				<div class="elementor-widget-container">
-			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">18.60</p></div></div>		</div>
+			<div class="jet-listing jet-listing-dynamic-field display-inline"><div class="jet-listing-dynamic-field__inline-wrap"><p class="jet-listing-dynamic-field__content">18.05</p></div></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -3117,7 +3117,7 @@ p.display-medium-subtitle {
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="/cdn-cgi/l/email-protection#690a06071d080a1d290400071a1e081947061b0e" target="_blank">
+											<a href="/cdn-cgi/l/email-protection#7b1814150f1a180f3b161215080c1a0b5514091c" target="_blank">
 
 											<span class="elementor-icon-list-text">Contact Us</span>
 											</a>
@@ -3383,7 +3383,7 @@ p.display-medium-subtitle {
 <script type='text/javascript' src='https://minswap.org/core/modules/6288320f55/assets/lib/slick/slick.min.js' id='jquery-slick-js'></script>
 <script type='text/javascript' id='jet-engine-frontend-js-extra'>
 /* <![CDATA[ */
-var JetEngineSettings = {"ajaxurl":"https:\/\/minswap.org\/controlpanel\/admin-ajax.php","ajaxlisting":"https:\/\/minswap.org\/?nocache=1669824204","hoverActionTimeout":"400","addedPostCSS":["1219","1207","413"]};
+var JetEngineSettings = {"ajaxurl":"https:\/\/minswap.org\/controlpanel\/admin-ajax.php","ajaxlisting":"https:\/\/minswap.org\/?nocache=1669847373","hoverActionTimeout":"400","addedPostCSS":["1219","1207","413"]};
 /* ]]> */
 </script>
 <script type='text/javascript' src='https://minswap.org/core/modules/6288320f55/assets/js/frontend.js' id='jet-engine-frontend-js'></script>

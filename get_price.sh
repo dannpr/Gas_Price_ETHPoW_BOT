@@ -13,9 +13,16 @@ echo "Name: $token_name">>minprice.txt
 token_price=$(cat minpage.txt | grep -Poz '(?<=class="jet-listing-dynamic-field__content">).*?(?<=₳)' | awk '{print $1}')
 echo "Price: $token_price "'₳'>>minprice.txt
 
+if [ ! -s mindata.csv ]; then
+	echo "price,date" >mindata.csv
+else
+	echo $token_price','| tr -d '\n' >>mindata.csv
+	date >>mindata.csv 
+fi
+
 echo " ">>minprice.txt 
 
-date >>minprice.txt
+date >>minprice.txt 
 
 cat minprice.txt
 
