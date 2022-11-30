@@ -11,7 +11,7 @@ token_name="${token_name:3}"
 echo "Name: $token_name">>minprice.txt
 
 token_price=$(cat minpage.txt | grep -Poz '(?<=class="jet-listing-dynamic-field__content">).*?(?<=₳)' | awk '{print $1}')
-echo "Price: $token_price"'₳'>>minprice.txt
+echo "Price: $token_price "'₳'>>minprice.txt
 
 echo " ">>minprice.txt 
 
