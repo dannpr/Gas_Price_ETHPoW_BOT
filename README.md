@@ -13,13 +13,13 @@ git clone <repo_url>
 Enable script execution :
 
 ```bash
-chmod u+x init.sh
+chmod u+x get_price.sh
 ```
 
-Then run init.sh :
+Then run get_price.sh :
 
 ```bash
-./init.sh
+./get_price.sh
 ```
 
 SetUp a bot on Telegram by using @BotFather and get your chat_id.
